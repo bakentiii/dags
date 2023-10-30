@@ -1,0 +1,11 @@
+git clone http://192.168.52.14/bakhtiyar_temirov/myscripts.git
+
+git add .
+
+go to directory
+
+git add .
+
+git commit -m "Tester"
+
+git push -u origin master
